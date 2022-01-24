@@ -1,0 +1,12 @@
+- name: Iansui
+  displayname: 芫荽體
+  category: serif
+  subsets:
+   - cjk
+   - latin
+  style:
+    normal:
+      - filename: dist/Iansui-Regular
+        codes: 11926
+        weight: 400
+        xfl: true

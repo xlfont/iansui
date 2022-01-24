@@ -1,0 +1,10 @@
+{
+  "name": "@xlfont/iansui",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "OFL",
+  "devDependencies": {
+    "@xlfont/load": "^2.0.1"
+  }
+}
